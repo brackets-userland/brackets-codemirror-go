@@ -1,7 +1,7 @@
 {
     "name": "petetnt.brackets-codemirror-go",
-    "title": "Brackets Go",
-    "description": "Brings support for Go from CodeMirror to Brackets.",
+    "title": "Go Programming Language syntax highlighter",
+    "description": "Brings support for Go Programming Language from CodeMirror to Brackets.",
     "homepage": "https://github.com/petetnt/brackets-codemirror-go",
     "version": "0.0.1",
     "author": "Pete Nykänen <pete.a.nykanen@gmail.com> (http://github.com/petetnt)",
