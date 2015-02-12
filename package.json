@@ -1,0 +1,13 @@
+{
+    "name": "petetnt.brackets-codemirror-go",
+    "title": "Brackets Go",
+    "description": "Brings support for Go from CodeMirror to Brackets.",
+    "homepage": "https://github.com/petetnt/brackets-codemirror-go",
+    "version": "0.0.1",
+    "author": "Pete Nykänen <pete.a.nykanen@gmail.com> (http://github.com/petetnt)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": [ "en"]
+}
