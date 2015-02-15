@@ -7,6 +7,6 @@
     "author": "Pete Nykänen <pete.a.nykanen@gmail.com> (http://github.com/petetnt)",
     "license": "MIT",
     "engines": {
-        "brackets": ">=0.24.0"
+        "brackets": ">=1.0.0"
     }
 }
